@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="present">#3300C500</color>
+    <color name="leave">#DE0E0E</color>
+    <color name="abs">#808080</color>
+    <color name="normal">#FFFFFF</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="primary">#45A9E4</color>
+    <color name="accent">#FF000000</color>
+    <color name="colorBackground">#413e4f</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#51d8c7</color>
+
+</resources>
